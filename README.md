@@ -5,6 +5,9 @@ This is a meta-repo for developers that downloads all the repositories you
 need to be an ELMSLN developer and manage multiple learning networks from
 one package.
 
+To clone this correctly, run the following command:
+`git clone --recursive https://github.com/btopro/elmsln-developer.git`
+
 This structure is broken out into three major directory trees:
 1. *github* - the elmsln major project repository from github
     https://github.com/btopro/elmsln
