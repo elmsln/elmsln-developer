@@ -1,0 +1,12 @@
+[submodule "elmsln"]
+    path = github
+    url = git://github.com/btopro/elmsln.git
+[submodule "elmsln-vagrant"]
+    path = vagrant
+    url = git://github.com/btopro/elmsln-vagrant.git
+[submodule "elmsln-config-example"]
+    path = instances/_development/config-example
+    url = git://github.com/btopro/elmsln-config-example.git
+[submodule "elmsln-config-vagrant"]
+    path = instances/_development/config-vagrant
+    url = git://github.com/btopro/elmsln-config-vagrant.git

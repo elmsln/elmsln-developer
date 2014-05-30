@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.gitmodules
 !github/
 !instances/
 !instances/_development/
