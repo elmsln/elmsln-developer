@@ -6,6 +6,7 @@ need to be an ELMSLN developer and manage multiple learning networks from
 one package.
 
 To clone this correctly, run the following command:
+
 `git clone --recursive https://github.com/btopro/elmsln-developer.git`
 
 This structure is broken out into three major directory trees:
