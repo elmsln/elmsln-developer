@@ -10,3 +10,4 @@ While this package is setup to have elmsln managed in the "github" directory,
 it is also recommended that you setup an alternate remote to map to. This is
 how PSU manages the packages in their deployments in-house.
 
+The recommendation is to take the example repo (elmsln-config-example) and fork it so that it’s your own repo.
