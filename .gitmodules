@@ -10,3 +10,6 @@
 [submodule "elmsln-config-vagrant"]
     path = instances/_development/config-vagrant
     url = https://github.com/btopro/elmsln-config-vagrant.git
+[submodule "elmsln-config-travis-ci"]
+    path = instances/_development/config-travis-ci
+    url = https://github.com/btopro/elmsln-config-travis-ci.git
