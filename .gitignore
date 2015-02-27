@@ -1,7 +1,7 @@
 *
 !.gitignore
 !.gitmodules
-!github/
+!system/
 !instances/
 !instances/_development/
 !instances/_development/config-example/
