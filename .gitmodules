@@ -1,5 +1,5 @@
 [submodule "elmsln"]
-    path = github
+    path = system
     url = https://github.com/btopro/elmsln.git
 [submodule "elmsln-vagrant"]
     path = vagrant
