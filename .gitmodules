@@ -1,15 +1,15 @@
 [submodule "elmsln"]
     path = system
-    url = https://github.com/btopro/elmsln.git
+    url = https://github.com/elmsln/elmsln.git
 [submodule "elmsln-vagrant"]
     path = vagrant
-    url = https://github.com/btopro/elmsln-vagrant.git
+    url = https://github.com/elmsln/elmsln-vagrant.git
 [submodule "elmsln-config-example"]
     path = instances/_development/config-example
-    url = https://github.com/btopro/elmsln-config-example.git
+    url = https://github.com/elmsln/elmsln-config-example.git
 [submodule "elmsln-config-vagrant"]
     path = instances/_development/config-vagrant
-    url = https://github.com/btopro/elmsln-config-vagrant.git
+    url = https://github.com/elmsln/elmsln-config-vagrant.git
 [submodule "elmsln-config-travis-ci"]
     path = instances/_development/config-travis-ci
-    url = https://github.com/btopro/elmsln-config-travis-ci.git
+    url = https://github.com/elmsln/elmsln-config-travis-ci.git
