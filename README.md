@@ -12,22 +12,22 @@ one package.
 
 To clone this correctly, run the following command:
 
-`git clone --recursive https://github.com/btopro/elmsln-developer.git`
+`git clone --recursive https://github.com/elmsln/elmsln-developer.git`
 
 This structure is broken out into three major directory trees:
 
 1. *github* - the elmsln major project repository from github
-  * https://github.com/btopro/elmsln
+  * https://github.com/elmsln/elmsln
 
 2.  *instances* - Each deployment of ELMSLN can be managed from this repo:
    It also comes with the following two instances:
-  * example config - https://github.com/btopro/elmsln-config-example
-  * vagrant config - https://github.com/btopro/elmsln-config-vagrant
+  * example config - https://github.com/elmsln/elmsln-config-example
+  * vagrant config - https://github.com/elmsln/elmsln-config-vagrant
 
 3. *vagrant* - the supported vagrant package for elmsln
-  * https://github.com/btopro/elmsln-vagrant/
+  * https://github.com/elmsln/elmsln-vagrant/
 
-Now go read the install instructions for https://github.com/btopro/elmsln-vagrant/ and make sure things are setup to do that and start working :)
+Now go read the install instructions for https://github.com/elmsln/elmsln-vagrant/ and make sure things are setup to do that and start working :)
 
 It is recommended that in your actual deployments on server that you map
 the github directory to an alternate remote in-house, preferably one per
