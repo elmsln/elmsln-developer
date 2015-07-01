@@ -24,10 +24,10 @@ This structure is broken out into three major directory trees:
   * example config - https://github.com/elmsln/elmsln-config-example
   * vagrant config - https://github.com/elmsln/elmsln-config-vagrant
 
-3. *vagrant* - the supported vagrant package for elmsln
-  * https://github.com/elmsln/elmsln-vagrant/
+3. *vagrant* - the supported vagrant package for elmsln is included in the main ELMSLN repo
+  * https://github.com/elmsln/elmsln/
 
-Now go read the install instructions for https://github.com/elmsln/elmsln-vagrant/ and make sure things are setup to do that and start working :)
+Now go read the install instructions for https://github.com/elmsln/elmsln/wiki/Vagrant:-Step-by-Step-setup and make sure things are setup to do that and start working :)
 
 It is recommended that in your actual deployments on server that you map
 the github directory to an alternate remote in-house, preferably one per
