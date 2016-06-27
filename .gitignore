@@ -2,7 +2,6 @@
 !.gitignore
 !.gitmodules
 !system/
-!elms-styles/
 !elmsln-logos/
 !instances/
 !instances/_development/
