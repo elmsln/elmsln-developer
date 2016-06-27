@@ -16,3 +16,6 @@
 [submodule "elms-styles"]
 	path = elms-styles
 	url = https://github.com/elmsln/elms-styles.git
+[submodule "elmsln-logos"]
+	path = elmsln-logos
+	url = https://github.com/elmsln/elmsln-logos.git
