@@ -13,3 +13,6 @@
 [submodule "elmsln-config-travis-ci"]
     path = instances/_development/config-travis-ci
     url = https://github.com/elmsln/elmsln-config-travis-ci.git
+[submodule "elms-styles"]
+	path = elms-styles
+	url = https://github.com/elmsln/elms-styles.git
