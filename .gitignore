@@ -9,5 +9,6 @@
 !instances/_development/config-example/
 !instances/_development/config-vagrant/
 !instances/_development/config-travis-ci/
+!developer_scripts/
 .vagrant
 .DS_Store
